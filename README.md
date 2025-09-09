@@ -5,7 +5,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
-### <img align="right" height="150" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2ZpZGhuamdta3R4b2k5M3l2YWJuY2pseWMzdXk2emlpeGR3bHA4MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif" />
+### <img align="right" height="150" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExemE1c2Q2ZGgxc2VibDB1NHlvYWZvYWNpdmU3MXpoeWthcWZ5ZjlsNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MdA16VIoXKKxNE8Stk/giphy.gif" />
 
 <p align="left" style="white-space:nowrap;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo" style="display:inline-block;margin:0;padding:0;vertical-align:middle;" />
