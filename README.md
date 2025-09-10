@@ -45,3 +45,30 @@
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
 </div>
+
+<br/>
+
+<!-- 3D Animated Cube -->
+<div align="center">
+  <div class="animated-cube-container">
+    <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="3D Animated Cube" width="200" height="200"/>
+  </div>
+  <p align="center">Thanks for visiting my profile! 🚀</p>
+</div>
+
+<style>
+@keyframes rotate {
+  0% { transform: rotateY(0deg) rotateX(0deg); }
+  100% { transform: rotateY(360deg) rotateX(360deg); }
+}
+.animated-cube-container {
+  perspective: 1000px;
+  margin: 20px 0;
+}
+.animated-cube {
+  transform-style: preserve-3d;
+  animation: rotate 10s infinite linear;
+  width: 150px;
+  height: 150px;
+}
+</style>
