@@ -5,7 +5,8 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
-### <img align="right" height="150" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExemE1c2Q2ZGgxc2VibDB1NHlvYWZvYWNpdmU3MXpoeWthcWZ5ZjlsNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MdA16VIoXKKxNE8Stk/giphy.gif" />
+### 
+<img align="right" height="150" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExemE1c2Q2ZGgxc2VibDB1NHlvYWZvYWNpdmU3MXpoeWthcWZ5ZjlsNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MdA16VIoXKKxNE8Stk/giphy.gif" />
 <img align="right" height="150" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTRkcGNsc3c2cWM4dGU2NmhhZ3hkaGFjcWNucHhwbWh3c3N0MmNieSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/efuh1hLg1H438esuwG/giphy.gif" />
 
 <p align="left" style="white-space:nowrap;">
@@ -30,7 +31,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" height="30" alt="materialui logo" style="display:inline-block;margin:0;padding:0;vertical-align:middle;" />
 </p>
 
-### <div align="left">
+### 
+<div align="left">
   <a href="@Persian_gang" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
   </a>
@@ -43,6 +45,3 @@
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
 </div>
-
-
-
