@@ -48,27 +48,63 @@
 
 <br/>
 
-<!-- 3D Animated Cube -->
+<!-- Custom 3D Animated Element -->
 <div align="center">
-  <div class="animated-cube-container">
-    <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="3D Animated Cube" width="200" height="200"/>
+  <div class="scene">
+    <div class="cube">
+      <div class="cube__face cube__face--front">👨‍💻</div>
+      <div class="cube__face cube__face--back">🌐</div>
+      <div class="cube__face cube__face--right">🚀</div>
+      <div class="cube__face cube__face--left">💡</div>
+      <div class="cube__face cube__face--top">🌟</div>
+      <div class="cube__face cube__face--bottom">💻</div>
+    </div>
   </div>
   <p align="center">Thanks for visiting my profile! 🚀</p>
 </div>
 
 <style>
-@keyframes rotate {
-  0% { transform: rotateY(0deg) rotateX(0deg); }
-  100% { transform: rotateY(360deg) rotateX(360deg); }
+.scene {
+  width: 200px;
+  height: 200px;
+  perspective: 600px;
+  margin: 40px auto;
 }
-.animated-cube-container {
-  perspective: 1000px;
-  margin: 20px 0;
-}
-.animated-cube {
+
+.cube {
+  width: 200px;
+  height: 200px;
+  position: relative;
   transform-style: preserve-3d;
-  animation: rotate 10s infinite linear;
-  width: 150px;
-  height: 150px;
+  transform: translateZ(-100px);
+  animation: rotate 15s infinite linear;
+}
+
+.cube__face {
+  position: absolute;
+  width: 200px;
+  height: 200px;
+  border: 2px solid #646464;
+  background: rgba(50, 50, 50, 0.8);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 80px;
+  font-family: sans-serif;
+  font-weight: bold;
+  color: #fff;
+  box-shadow: inset 0 0 40px #000, 0 0 20px #000;
+}
+
+.cube__face--front  { transform: rotateY(0deg) translateZ(100px); }
+.cube__face--right  { transform: rotateY(90deg) translateZ(100px); }
+.cube__face--back   { transform: rotateY(180deg) translateZ(100px); }
+.cube__face--left   { transform: rotateY(-90deg) translateZ(100px); }
+.cube__face--top    { transform: rotateX(90deg) translateZ(100px); }
+.cube__face--bottom { transform: rotateX(-90deg) translateZ(100px); }
+
+@keyframes rotate {
+  0%   { transform: translateZ(-100px) rotateX(0deg) rotateY(0deg); }
+  100% { transform: translateZ(-100px) rotateX(360deg) rotateY(360deg); }
 }
 </style>
